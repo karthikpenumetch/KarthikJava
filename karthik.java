@@ -1,3 +1,5 @@
+//This is the main class of the Java application.
+//It manipulates the array of numbers
 public class karthik
 {
 	public static void main(String[] args)
